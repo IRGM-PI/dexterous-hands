@@ -1,0 +1,5 @@
+/.env
+/data_private/
+/notes/
+/experiments_raw/
+*.ckpt
